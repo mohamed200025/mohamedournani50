@@ -10,7 +10,7 @@
 
 ### 📌 My GitHub Projects
 
-- 🔎 [Netflix Data Cleaning](https://github.com/mohamed200025/netflix-data-cleaning)
+- 🔎 [Netflix Data Cleaning](https://github.com/mohamed200025/netflix-data-analysis.git)
 - 📊 [Exploratory Data Analysis](#) *(coming soon)*
 - 🛠️ More projects coming...
 
