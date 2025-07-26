@@ -11,6 +11,7 @@
 ### 📌 My GitHub Projects
 
 - 🔎 [Netflix Data Cleaning](https://github.com/mohamed200025/netflix-data-analysis.git)
+- 🔎 [DNA Sequence Prediction](https://github.com/mohamed200025/DNA-Sequence-Prediction.git)
 - 📊 [Exploratory Data Analysis](#) *(coming soon)*
 - 🛠️ More projects coming...
 
